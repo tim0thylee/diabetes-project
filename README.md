@@ -7,4 +7,5 @@ Things completed:
 
 Things to work on for Timothy:
 1) Attempt to do model by taking out itching to see what the models will look like. Chi test shows it has the lowest rank
+2) Implement Baseline model (https://blog.jcharistech.com/2021/05/13/how-to-set-a-baseline-for-machine-learning-models-in-python/)
 
