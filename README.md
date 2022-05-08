@@ -1,11 +1,21 @@
 # diabetes-project
 
-Things completed:
-1) Age feature now binary (<= 48 is 0 and >48 is 1)
-2) Swapped gender so female is 0 and male is 1 (model works better)
-3) Implemented models for KNN-weighted, Naive Bayes, SVM, and Decision Tree with analysis. 
+This is the diabetes prediction machine learning project for Timothy Lee and Andres Medina
 
-Things to work on for Timothy:
-1) Attempt to do model by taking out itching to see what the models will look like. Chi test shows it has the lowest rank
-2) Implement Baseline model (https://blog.jcharistech.com/2021/05/13/how-to-set-a-baseline-for-machine-learning-models-in-python/)
+The following technologies/libraries are required to run the program:
+1) Python
+2) SKLearn
+3) Seaborn
+4) Matplotlib
+5) Numpy
+6) Pandas
+7) Jupyter Notebook
+8) Scipy
 
+There are two notebooks:
+1) Baseline.ipynb: Baseline Models
+2) Diabetes.ipynb: Main program and Analysis
+
+For grading purposes, focus on the Diabetes.ipynb. It will contain all the analysis and main models. 
+However, the baseline data come from the Baseline notebook. This was to separate concerns for easier
+programming and viewing. 
